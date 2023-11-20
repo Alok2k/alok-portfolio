@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alok-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/alok-portfolio/static/js/main.75caaeb3.js",
+    "static/media/HeroImage.jpg": "/alok-portfolio/static/media/HeroImage.0f759a53c99a8b402c30.jpg",
+    "index.html": "/alok-portfolio/index.html",
+    "main.bf538fe7.css.map": "/alok-portfolio/static/css/main.bf538fe7.css.map",
+    "main.75caaeb3.js.map": "/alok-portfolio/static/js/main.75caaeb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.75caaeb3.js"
+  ]
+}
