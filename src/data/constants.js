@@ -133,7 +133,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+   
   }
 ];
 
@@ -195,8 +195,8 @@ export const projects = [
     date: "oct 2023 - Nov 2023",
     description:
       "Developed E-Library web app using ReactJs,HTML,CSS and local storage for database.",
-    Image:
-      "src\components\projimgs\elib.png",
+    image:
+      "https://vscode.dev/github/Alok2k/alok-portfolio/blob/main/public/elib.png",
     tags: ["React Js", "Local Storage", "HTML","CSS"],
     category: "web app",
     github: "https://github.com/Alok2k/Eibrary",
@@ -212,13 +212,14 @@ export const projects = [
     // ],
   },
   {
+    
     id: 1,
     title: "Course Management System",
     date: "June 2023 - July 2023",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Created a Complete Course Management project Using Springboot, React and MongoDb for Database. Implemented JWT based Authentication and Authorization and Paypal payment gateway",
     image:
-      "",
+      "public/coursemanagement.png",
     tags: [
       "React Js",
       "MongoDb",
