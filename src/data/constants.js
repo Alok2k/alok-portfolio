@@ -174,6 +174,7 @@ export const projects = [
       "Developing Employeemanagement system using Springboot, React js and MySQL. Still adding features in this project",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      
     tags: ["React Js", "MySQL","SpringBoot","Postman", "HTML","CSS"],
     category: "web app",
     github: "https://github.com/Alok2k/employee-management",
@@ -194,12 +195,12 @@ export const projects = [
     date: "oct 2023 - Nov 2023",
     description:
       "Developed E-Library web app using ReactJs,HTML,CSS and local storage for database.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    Image:
+      "src\components\projimgs\elib.png",
     tags: ["React Js", "Local Storage", "HTML","CSS"],
     category: "web app",
     github: "https://github.com/Alok2k/Eibrary",
-    webapp: "https://podstream.netlify.app/",
+    webapp: "",
     // member: [
     //   {
     //     name: "",
@@ -217,7 +218,7 @@ export const projects = [
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "",
     tags: [
       "React Js",
       "MongoDb",
@@ -241,10 +242,4 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+
