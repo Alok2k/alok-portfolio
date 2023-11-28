@@ -173,7 +173,7 @@ export const projects = [
     description:
       "Developing Employeemanagement system using Springboot, React js and MySQL. Still adding features in this project",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCLeUVqHOsMKOpFStHGZOImSJGM0uJSCyTg&usqp=CAU",
       
     tags: ["React Js", "MySQL","SpringBoot","Postman", "HTML","CSS"],
     category: "web app",
@@ -196,7 +196,7 @@ export const projects = [
     description:
       "Developed E-Library web app using ReactJs,HTML,CSS and local storage for database.",
     image:
-      "https://vscode.dev/github/Alok2k/alok-portfolio/blob/main/public/elib.png",
+      "https://doku.moodlearning.com/lib/exe/fetch.php?media=elibrary.png",
     tags: ["React Js", "Local Storage", "HTML","CSS"],
     category: "web app",
     github: "https://github.com/Alok2k/Eibrary",
@@ -217,9 +217,9 @@ export const projects = [
     title: "Course Management System",
     date: "June 2023 - July 2023",
     description:
-      "Created a Complete Course Management project Using Springboot, React and MongoDb for Database. Implemented JWT based Authentication and Authorization and Paypal payment gateway",
+      " *for now code is private* Created a Complete Course Management project Using Springboot, React and MongoDb for Database. Implemented JWT based Authentication and Authorization and Paypal payment gateway",
     image:
-      "public/coursemanagement.png",
+      "https://blogimages.softwaresuggest.com/blog/wp-content/uploads/2021/03/20142019/Top-Benefits-of-Using-LMS-in-Schools-for-Education.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -229,7 +229,7 @@ export const projects = [
       "Postman",
     ],
     category: "web app",
-    github: "https://github.com/Alok2k/Eibrary",
+    github: "",
     webapp: "",
       // member: [
     //   {
